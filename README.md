@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm go2maxi 👋
 
-<!--
-**go2maxi/go2maxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I document what I learn while studying Python and building small tools.
 
-Here are some ideas to get you started:
+Rather than only writing code, I try to record the problems I encounter, understand why they happen, and note practical ways to handle them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What I'm currently working on
+
+### [api-json-cli](https://github.com/go2maxi/api-json-cli)
+A small CLI experiment for fetching and validating JSON data from public APIs.
+
+### [common-python-errors](https://github.com/go2maxi/common-python-errors)
+A growing collection of Python runtime errors I encounter while learning, with explanations and defensive coding patterns.
+
+### [learning-python](https://github.com/go2maxi/learning-python)
+Personal notes and small code experiments while exploring core Python concepts.
+
+---
+
+Currently focusing on building a solid Python foundation by writing small programs and documenting errors encountered along the way.
